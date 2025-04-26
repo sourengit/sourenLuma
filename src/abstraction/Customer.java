@@ -17,6 +17,11 @@ public abstract class Customer {
 
 	}
 	
+	public void testGit()
+	{
+		System.out.println("git test success, method updated!!");
+	}
+	
 	public abstract void BookingServer();
 	
 	public abstract void BookingAgent();
